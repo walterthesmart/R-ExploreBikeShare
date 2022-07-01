@@ -1,4 +1,4 @@
-Date created - 5th May 2021
+
 
 Bikeshare Data Exploration 
 
@@ -22,5 +22,5 @@ Using a summary table and bar chart we explored the gender distribution of usert
 All contained in the csv folder in the project folders
 
 ### Credits
-Data used for this analysis is provided by motivateco.com a bike hare system provider 
+Data used for this analysis is provided by motivateco.com a bike share system provider 
 
